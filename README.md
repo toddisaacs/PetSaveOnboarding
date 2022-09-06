@@ -1,3 +1,3 @@
 # PetSaveOnboarding
 
-A description of this package.
+example project for setting up packages from ray wenderlich tutorial
